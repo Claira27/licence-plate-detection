@@ -10,7 +10,7 @@ This project performs:
 ---
 
 ## Folder Structure
-
+```
 Licence-Plate-Detection/
 ├── function/
 │ ├── helper.py # Utilities for reading character sequences
@@ -30,8 +30,7 @@ Licence-Plate-Detection/
 │
 ├── test/ # Folder with test images
 ├── yolov5/ # YOLOv5 repo (used for training/inference)
-
-
+```
 ---
 
 ## Workflow
